@@ -37,3 +37,8 @@ header h1{
     padding-top: 1em;
 
 }
+header a {
+    color: #0D1B28;
+    font-family: arial;
+
+}
