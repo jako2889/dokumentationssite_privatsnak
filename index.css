@@ -55,5 +55,6 @@ header h1{
 header a {
     color: #0D1B28;
     font-family: arial;
+    text-decoration: none;
 
 }
