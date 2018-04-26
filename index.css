@@ -58,3 +58,17 @@ header a {
     text-decoration: none;
 
 }
+
+footer {
+    height: 300px;
+    background: linear-gradient(#F38B21, #0D1B28);
+    align-self: stretch;
+}
+
+footer p {
+    font-family: arial;
+    font-size: 1.5em;
+    color: #f3f3f4;
+    padding-top: 5em;
+    margin: 0;
+}
