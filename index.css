@@ -8,6 +8,11 @@ body {
     background: #F38B21;
 
 }
+
+h1 {
+    font-family: arial;
+}
+
 #idebeskrivelse p {
     width: 90vw;
 }
@@ -21,6 +26,16 @@ body {
 #sekvensdiagram object {
     width: 50vw;
     height: 700px;
+}
+
+#flowchart object {
+    width: 50vw;
+    height: 600px;
+}
+
+#layoutdiagram object {
+    width: 50vw;
+    height: 600px;
 }
 
 header {
