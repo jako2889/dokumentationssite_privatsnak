@@ -4,6 +4,11 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-align: center;
+
+}
+#idebeskrivelse p {
+    width: 90vw;
 }
 
 #moodboard object {
