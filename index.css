@@ -1,8 +1,13 @@
 body {
     margin: 0 auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 #moodboard object {
-    width: 400px;
-    height: 400px;
+    width: 90vw;;
+    height: 600px;
+
 }
