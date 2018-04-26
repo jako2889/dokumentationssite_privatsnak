@@ -16,3 +16,8 @@ body {
     height: 600px;
 
 }
+
+#sekvensdiagram object {
+    width: 50vw;
+    height: 600px;
+}
