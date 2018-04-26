@@ -30,3 +30,15 @@ header {
     align-self: stretch;
 
     }
+header h1{
+    color: #f3f3f4;
+    font-family: arial;
+    font-size: 6vw;
+    padding-top: 1em;
+
+}
+header a {
+    color: #0D1B28;
+    font-family: arial;
+
+}
