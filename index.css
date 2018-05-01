@@ -9,6 +9,11 @@ body {
 
 }
 
+#styletile {
+    width: 100%;
+    height: 100%;
+}
+
 h1 {
     font-family: arial;
 }
@@ -18,7 +23,8 @@ h1 {
 }
 
 #moodboard object {
-    width: 90vw;;
+    width: 90vw;
+    ;
     height: 600px;
 
 }
@@ -39,19 +45,21 @@ h1 {
 }
 
 header {
-       height: 400px;
-      background: linear-gradient(#0D1B28, #F38B21);
+    height: 400px;
+    background: linear-gradient(#0D1B28, #F38B21);
 
     align-self: stretch;
 
-    }
-header h1{
+}
+
+header h1 {
     color: #f3f3f4;
     font-family: arial;
     font-size: 6vw;
     padding-top: 1em;
 
 }
+
 header a {
     color: #0D1B28;
     font-family: arial;
