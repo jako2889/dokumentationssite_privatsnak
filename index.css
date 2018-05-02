@@ -7,6 +7,8 @@ body {
     text-align: center;
     background: white;
 
+
+
 }
 
 #styletile {
@@ -48,17 +50,13 @@ h1 {
 }
 
 header h1 {
-    color: #F38B2E;
-    height: 40px;
-    align-self: stretch;
-
-}
-
-header h1 {
-    color: #F38B2E;
     font-family: arial;
-    font-size: 6vw;
-    padding-top: 1em;
+    color: white;
+    font-size: 6.5vw;
+    padding-top: 7em;
+    align-self: stretch;
+    background-image: url(forside-01.png);
+    background-size: 100%
 
 }
 
@@ -68,6 +66,7 @@ header a {
     text-decoration: none;
     font-size: 3vw;
     font-weight: 600;
+
 
 }
 
