@@ -49,6 +49,11 @@ h1 {
     height: 600px;
 }
 
+#skitser object {
+     width: 50vw;
+    height: 600px;
+}
+
 header h1 {
     font-family: arial;
     color: white;
