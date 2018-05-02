@@ -44,12 +44,17 @@ h1 {
     height: 600px;
 }
 
-#layoutdiagram object {
+#Layoutdiagram object {
     width: 50vw;
     height: 600px;
 }
 
 #skitser object {
+     width: 50vw;
+    height: 400px;
+}
+
+#Test-dokumentation object {
      width: 50vw;
     height: 600px;
 }
