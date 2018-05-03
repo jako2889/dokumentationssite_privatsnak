@@ -145,12 +145,20 @@ nav a {
     border: 1px solid white;
 }
 
-footer a {
+#Trello {
+    display: flex;
+    flex-direction: column;
+}
+
+#Trello object {
+}
+
+#Trello a {
     text-decoration: none;
     color: #0D1B28;
     font-size: 1.5em;
 
 }
-footer a:hover {
+#Trello a:hover {
     color: #F38B2E;
 }
