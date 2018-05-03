@@ -60,6 +60,11 @@ h1 {
     height: 600px;
 }
 
+#Burn-down-charts object {
+     width: 50vw;
+    height: 600px;
+}
+
 header h1 {
     font-family: arial;
     color: white;
