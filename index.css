@@ -121,3 +121,13 @@ nav a {
     padding: 20px 10px;
     border: 1px solid white;
 }
+
+footer a {
+    text-decoration: none;
+    color: #0D1B28;
+    font-size: 1.5em;
+
+}
+footer a:hover {
+    color: #F38B2E;
+}
